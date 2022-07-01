@@ -31,7 +31,7 @@ python = "^3.8"
 numpy = "^1.22.4"
 pandas = "^1.4.2"
 sklearn = "^0.0"
-lxml = "^4.9.0"
+lxml = "^4.9.1"
 drain3 = "^0.9.10"
 
 [tool.poetry.dev-dependencies]
